@@ -177,7 +177,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Copyright of Benjamin Lewis - 2022. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -216,7 +216,7 @@ Project Link: [https://github.com/benjisoft/ACEApp](https://github.com/benjisoft
 [issues-shield]: https://img.shields.io/github/issues/benjisoft/ACEApp.svg?style=for-the-badge
 [issues-url]: https://github.com/benjisoft/ACEApp/issues
 [license-shield]: https://img.shields.io/github/license/benjisoft/ACEApp.svg?style=for-the-badge
-[license-url]: https://github.com/benjisoft/ACEApp/blob/master/LICENSE.txt
+[license-url]: https://github.com/benjisoft/ACEApp/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/benji-lewis
 [product-screenshot]: images/screenshot.png
